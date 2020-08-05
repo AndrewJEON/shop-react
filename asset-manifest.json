@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shop-react/static/css/main.8fe1c7d6.chunk.css",
+    "main.js": "/shop-react/static/js/main.f9949a20.chunk.js",
+    "main.js.map": "/shop-react/static/js/main.f9949a20.chunk.js.map",
+    "runtime-main.js": "/shop-react/static/js/runtime-main.5773c02f.js",
+    "runtime-main.js.map": "/shop-react/static/js/runtime-main.5773c02f.js.map",
+    "static/js/2.56145d8c.chunk.js": "/shop-react/static/js/2.56145d8c.chunk.js",
+    "static/js/2.56145d8c.chunk.js.map": "/shop-react/static/js/2.56145d8c.chunk.js.map",
+    "index.html": "/shop-react/index.html",
+    "precache-manifest.97d5d1f1158321739e43779e2aa6ca46.js": "/shop-react/precache-manifest.97d5d1f1158321739e43779e2aa6ca46.js",
+    "service-worker.js": "/shop-react/service-worker.js",
+    "static/css/main.8fe1c7d6.chunk.css.map": "/shop-react/static/css/main.8fe1c7d6.chunk.css.map",
+    "static/js/2.56145d8c.chunk.js.LICENSE.txt": "/shop-react/static/js/2.56145d8c.chunk.js.LICENSE.txt",
+    "static/media/crown.ed28accb.svg": "/shop-react/static/media/crown.ed28accb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5773c02f.js",
+    "static/js/2.56145d8c.chunk.js",
+    "static/css/main.8fe1c7d6.chunk.css",
+    "static/js/main.f9949a20.chunk.js"
+  ]
+}
